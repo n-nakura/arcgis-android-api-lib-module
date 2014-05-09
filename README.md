@@ -42,6 +42,16 @@ In this step we want to ensure that your project is using the latest Gradle plug
     }
 ```
 
+- Add the following exclusions above ```buildTypes```
+
+```
+    packagingOptions{
+        exclude 'META-INF/LGPL2.1'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/NOTICE'
+    }
+```
+
 - Click the **Sync Project with Gradle Files** button from the toolbar.
 
 Gradle Plugin v0.10.0 is the latest version of the Gradle Plugin at the time of the writing so the version will change as more releases come out.
