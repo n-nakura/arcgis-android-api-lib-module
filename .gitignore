@@ -1,5 +1,17 @@
-# generated files
-/build
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Intellij project files
+.idea
+#.idea/workspace.xml
+build/
+
+# gradle files
+.gradle
+
+# SublimeText
+/*.sublime-project
+*.sublime-workspace
 
 # OS generated files #
 ######################
