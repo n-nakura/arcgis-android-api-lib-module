@@ -12,3 +12,21 @@ Open your terminal, navigate to your working directory, use ```git clone``` to g
 ```
 $ git clone git@github.com:YOUR-USERNAME/arcgis-android-sdk-module.git
 ```
+# Integrate into existing Android Project
+You can integrate the ArcGIS Android lib module into an existing Android project.
+
+## Update Manifest
+The ```Android.manifest``` file is now located in the ```/src/main/``` directory of your application project.
+
+- Double click the  manifest file to open it.  Add the following to your manifest:
+
+```
+<uses-permission android:name="android.permission.INTERNET" />
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+<uses-feature
+    android:glEsVersion="0x00020000"
+    android:required="true" />
+```
+
