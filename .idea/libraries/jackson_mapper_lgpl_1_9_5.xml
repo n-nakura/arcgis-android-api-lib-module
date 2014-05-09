@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="jackson-mapper-lgpl-1.9.5">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/build/exploded-aar/arcgis-android-sdk-module/arcgis-android-v10.2.3/unspecified/libs/jackson-mapper-lgpl-1.9.5.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
