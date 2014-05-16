@@ -1,8 +1,8 @@
-# Early Access Preview
-**Caution:**  arcgis-android-api-lib-module is currently available as an **early access preview** for use with [Android Studio](http://developer.android.com/sdk/installing/studio.html).  If you are not comfortable using an unfinished product, you may want to use the Eclipse Plugin bundled with the [ArcGIS Android SDK](https://developers.arcgis.com/android/).
-
 # Overview
 ArcGIS Runtime SDK for Android library module for Android Studio. Use the version library module, e.g. ```arcgis-android-v10.2.3``` to convert your android project into an ArcGIS Android project.
+
+# Early Access Preview
+**Caution:** arcgis-android-api-lib-module is currently available as an **early access preview** for use with [Android Studio](http://developer.android.com/sdk/installing/studio.html).  If you are not comfortable using an unfinished product, you may want to use the Eclipse Plugin bundled with the [ArcGIS Android SDK](https://developers.arcgis.com/android/).
 
 # Fork the repo
 If you haven't already, go to https://github.com/ArcGIS/arcgis-android-sdk-module and click the **Fork** button.
@@ -43,16 +43,6 @@ In this step we want to ensure that your project is using the latest Gradle plug
     }
 ```
 
-- Add the following exclusions above ```buildTypes```
-
-```
-    packagingOptions{
-        exclude 'META-INF/LGPL2.1'
-        exclude 'META-INF/LICENSE'
-        exclude 'META-INF/NOTICE'
-    }
-```
-
 - Click the **Sync Project with Gradle Files** button from the toolbar.
 
 Gradle Plugin v0.10.0 is the latest version of the Gradle Plugin at the time of the writing so the version will change as more releases come out.
@@ -79,6 +69,16 @@ dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:19.+'
 }
+```
+
+- Add the following exclusions above ```buildTypes```
+
+```
+    packagingOptions{
+        exclude 'META-INF/LGPL2.1'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/NOTICE'
+    }
 ```
 
 - Click the **Sync Project with Gradle Files** button from the toolbar.
