@@ -1,5 +1,5 @@
 # Overview
-ArcGIS Runtime SDK for Android library module for Android Studio. Use the version library module, e.g. ```arcgis-android-v10.2.3``` to convert your android project into an ArcGIS Android project.
+ArcGIS Android API library module for Android Studio. Use the version library module, e.g. ```arcgis-android-v10.2.3``` to convert your android project into an ArcGIS Android project, create a new ArcGIS Android project, or work with the [ArcGIS Android SDK Gradle sample modules](https://github.com/ArcGIS/arcgis-android-sdk-gradle-samples).
 
 # Early Access Preview
 **Caution:** arcgis-android-api-lib-module is currently available as an **early access preview** for use with [Android Studio](http://developer.android.com/sdk/installing/studio.html).  If you are not comfortable using an unfinished product, you may want to use the Eclipse Plugin bundled with the [ArcGIS Android SDK](https://developers.arcgis.com/android/).
