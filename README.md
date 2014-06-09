@@ -5,7 +5,7 @@ ArcGIS Android API library module for Android Studio. Use the version library mo
 **Caution:** arcgis-android-api-lib-module is currently available as an **early access preview** for use with [Android Studio](http://developer.android.com/sdk/installing/studio.html).  If you are not comfortable using an unfinished product, you may want to use the Eclipse Plugin bundled with the [ArcGIS Android SDK](https://developers.arcgis.com/android/).
 
 # Fork the repo
-If you haven't already, go to https://github.com/ArcGIS/arcgis-android-sdk-module and click the **Fork** button.
+If you haven't already, go to https://github.com/ArcGIS/arcgis-android-api-lib-module and click the **Fork** button.
 
 # Clone the repo
 Open your terminal, navigate to your working directory, use ```git clone``` to get a copy of the repo.
