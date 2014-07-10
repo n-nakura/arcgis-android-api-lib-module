@@ -39,13 +39,13 @@ In this step we want to ensure that your project is using the latest Gradle plug
 
 ```
     dependencies {
-        classpath 'com.android.tools.build:gradle:0.10.+'
+        classpath 'com.android.tools.build:gradle:0.12.+'
     }
 ```
 
 - Click the **Sync Project with Gradle Files** button from the toolbar.
 
-Gradle Plugin v0.10.0 is the latest version of the Gradle Plugin at the time of the writing so the version will change as more releases come out.
+Gradle Plugin v0.12.0 is the latest version of the Gradle Plugin at the time of the writing so the version will change as more releases come out.
 
 ## Import ArcGIS Android lib module
 This is where we start to turn our project into an ArcGIS for Android project.
