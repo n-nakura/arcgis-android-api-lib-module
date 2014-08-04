@@ -102,3 +102,6 @@ dependencies {
 You should now see all the ArcGIS libs in the **External Libraries** drop down. **NOTE** You may need to do the first step again to see the libs.
 
 You should now be ready to start coding with ArcGIS Runtime SDK for Android!
+
+## Issues
+Find a bug or want to request a new feature enhancement?  Please let us know by submitting an issue.
