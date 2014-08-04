@@ -1,0 +1,5 @@
+Acknowledgements for third party open source libraries included with the module:
+
+jackson-core-lpgl-1.9.5.jar & jackson-mapper-lpgl-1.9.5.jar are under the Apache License 2.0.  You can find a copy of Apache 2 license at http://www.apache.org/licenses/LICENSE-2.0.html.
+
+jcifs-1.3.17.jar is under the LGPL. You can find a copy of the LGPL license at http://www.gnu.org/licenses/lgpl-2.1.txt.
