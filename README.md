@@ -1,14 +1,14 @@
 # Overview
-ArcGIS Android API library module for Android Studio. Use the version library module, e.g. ```arcgis-android-v10.2.3``` to convert your android project into an ArcGIS Android project, create a new ArcGIS Android project, or work with the [ArcGIS Android SDK Gradle sample modules](https://github.com/ArcGIS/arcgis-android-sdk-gradle-samples).
+ArcGIS Android API library module for Android Studio. Use the version library module, e.g. ```arcgis-android-v10.2.3``` to convert your android project into an ArcGIS Android project, create a new ArcGIS Android project, or work with the [ArcGIS Android SDK Gradle sample modules](https://github.com/Esri/arcgis-android-sdk-gradle-samples).
 
 # Early Access Preview
 **Caution:** arcgis-android-api-lib-module is currently available as an **early access preview** for use with [Android Studio](http://developer.android.com/sdk/installing/studio.html).  If you are not comfortable using an unfinished product, you may want to use the Eclipse Plugin bundled with the [ArcGIS Android SDK](https://developers.arcgis.com/android/).
 
 ## License - Read Carefully
-Forking this repo means you have accepted the terms of the [license agreement](https://github.com/ArcGIS/arcgis-android-api-lib-module/blob/master/E204_E300_10_2.txt).  Please read before proceeding to work with this repo.  Please read our additional open source third party license [acknowledgements](https://github.com/ArcGIS/arcgis-android-api-lib-module/blob/master/Open_Source_Acknowledgements.txt).
+Forking this repo means you have accepted the terms of the [license agreement](https://github.com/Esri/arcgis-android-api-lib-module/blob/master/E204_E300_10_2.txt).  Please read before proceeding to work with this repo.  Please read our additional open source third party license [acknowledgements](https://github.com/Esri/arcgis-android-api-lib-module/blob/master/Open_Source_Acknowledgements.txt).
 
 # Fork the repo
-If you haven't already, go to https://github.com/ArcGIS/arcgis-android-api-lib-module and click the **Fork** button.
+If you haven't already, go to https://github.com/Esri/arcgis-android-api-lib-module and click the **Fork** button.
 
 # Clone the repo
 Open your terminal, navigate to your working directory, use ```git clone``` to get a copy of the repo.
